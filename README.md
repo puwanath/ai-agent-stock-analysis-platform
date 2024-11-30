@@ -2,7 +2,7 @@
 
 AI-powered stock analysis platform supporting both Thai (SET) and International stocks with comprehensive technical, fundamental, and AI-driven analysis.
 
-![Platform Preview](preview.png)
+![Platform Preview](capture_screen/Screen (10).png)
 
 ## 🌟 Features
 
