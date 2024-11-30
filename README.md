@@ -91,7 +91,7 @@ ai_agents_stock_analysis_platform/
 ├── requirements.txt          # Project dependencies
 ├── utils/
 │   ├── __init__.py
-    ├── calculations.py        # Common calculations
+│   ├── calculations.py        # Common calculations
 │   ├── data_fetcher.py      # Data fetching utilities
 |   ├── formatters.py       # Data formatting utilities
 │   ├── technical_indicators.py  # Technical analysis
@@ -177,7 +177,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with [Streamlit](https://streamlit.io/)
 - Cody AI for code Debugging & Reviewing
 - Claude AI for Researching & Writing README.md
-- Yahoo Finance for stock data
 
 ## Developer Team
 - [Puwanath Baibua](https://github.com/puwanath)
